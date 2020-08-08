@@ -1,0 +1,27 @@
+body {
+    background-color: #2f2f2d;
+    position: relative;
+}
+
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    height: 450px;
+    width: 600px;
+    margin: 60px auto;
+    border: 2px solid #000;
+    border-radius: 3px;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+}
+
+p {
+    color: #fff;
+    text-align: center;
+}
+
+
+
